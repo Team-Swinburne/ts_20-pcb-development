@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=5kW Pin=P6-1
+Removed Member From Class: ClassName=Schematic Member=P6
+Change Component Designator: OldDesignator=P5 NewDesignator=REF
+Change Component Designator: OldDesignator=P7 NewDesignator=5kW PRE FET
+Change Component Designator: OldDesignator=P8 NewDesignator=POST AMP
+Change Component Designator: OldDesignator=P9 NewDesignator=PREAMP
+Added Component: Designator=0V(TH Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0mm"; VariantName = "[No Variations]"
+Added Component: Designator=5kW OUT(TH Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0V Pin=0V-1
+Added Pin To Net: NetName=5kW Pin=5kW OUT-1
+Change Net Name : Old Net Name=NetP7_1 New Net Name=Net5kW PRE FET_1
+Change Net Name : Old Net Name=NetP8_1 New Net Name=NetPOST AMP_1
+Added Member To Class: ClassName=Schematic Member=Component 0V 0mm
+Added Member To Class: ClassName=Schematic Member=Component 5kW OUT 0mm

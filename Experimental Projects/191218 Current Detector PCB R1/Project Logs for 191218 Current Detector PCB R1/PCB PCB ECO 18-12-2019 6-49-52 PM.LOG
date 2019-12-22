@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=R1 Old Footprint=B TO-263 New Footprint=0805
+Change component parameters: Designator = "R1"; Footprint = "0805"; UniqueID = "\DHBWJYHV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805FR0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=P4(DT13-12P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com.au/product-detail/en/te-connectivity-deutsch-connectors/DT13-12PA/1734-1451-ND/7220123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "1734-1451-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DT13-12P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.44mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "6.35mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANS Pin=P4-1
+Added Pin To Net: NetName=CANL Pin=P4-2
+Added Pin To Net: NetName=CANH Pin=P4-3
+Added Pin To Net: NetName=5kW Pin=P4-8
+Added Pin To Net: NetName=GLV- Pin=P4-11
+Added Pin To Net: NetName=GLV+ Pin=P4-12
+Added Member To Class: ClassName=Schematic Member=Component P4 DT13-12P

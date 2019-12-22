@@ -1,0 +1,125 @@
+Change Component Footprint: Designator=C2 Old Footprint=0805 New Footprint=1206
+Change component parameters: Designator = "C2"; Footprint = "1206"; UniqueID = "\TIVPMQPT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "311-1997-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC1206MKX5R7BB226"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SMB Diode)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/smc-diode-solutions/SD560BTR/1655-1530-2-ND/6022620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "1655-1530-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SMC Diode Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SD560BTR"; VariantName = "[No Variations]"
+Added Component: Designator=F1(2920)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/bel-fuse-inc/0ZCF0200AF2C/507-1749-2-ND/4156090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "507-1749-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0ZCF0200AF2C"; VariantName = "[No Variations]"
+Added Component: Designator=P2(TH Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0mm"; VariantName = "[No Variations]"
+Added Component: Designator=P3(TH Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0mm"; VariantName = "[No Variations]"
+Added Component: Designator=P4(DT13-12P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com.au/product-detail/en/te-connectivity-deutsch-connectors/DT13-12PA/1734-1451-ND/7220123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "1734-1451-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DT13-12P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.44mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "6.35mm"; VariantName = "[No Variations]"
+Added Component: Designator=P5(TH Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0mm"; VariantName = "[No Variations]"
+Added Component: Designator=P6(TH Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0mm"; VariantName = "[No Variations]"
+Added Component: Designator=P7(TH Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0mm"; VariantName = "[No Variations]"
+Added Component: Designator=P8(TH Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0mm"; VariantName = "[No Variations]"
+Added Component: Designator=P9(TH Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetC1_2 Pin=D1-K
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetD1_A Pin=F1-2
+Added Pin To Net: NetName=NetC1_2 Pin=P2-1
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Pin To Net: NetName=CANS Pin=P4-1
+Added Pin To Net: NetName=CANL Pin=P4-2
+Added Pin To Net: NetName=CANH Pin=P4-3
+Added Pin To Net: NetName=5kW Pin=P4-8
+Added Pin To Net: NetName=GLV- Pin=P4-11
+Added Pin To Net: NetName=GLV+ Pin=P4-12
+Added Pin To Net: NetName=NetC3_2 Pin=P5-1
+Added Pin To Net: NetName=5kW Pin=P6-1
+Added Pin To Net: NetName=NetQ1_G Pin=P7-1
+Added Pin To Net: NetName=NetR2_2 Pin=P8-1
+Added Pin To Net: NetName=NetC4_2 Pin=P9-1
+Change Net Name : Old Net Name=NetQ1_G New Net Name=NetP7_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetP8_1
+Added Member To Class: ClassName=Schematic Member=Component D1 SD560BTR
+Added Member To Class: ClassName=Schematic Member=Component F1 0ZCF0200AF2C
+Added Member To Class: ClassName=Schematic Member=Component P2 0mm
+Added Member To Class: ClassName=Schematic Member=Component P3 0mm
+Added Member To Class: ClassName=Schematic Member=Component P4 DT13-12P
+Added Member To Class: ClassName=Schematic Member=Component P5 0mm
+Added Member To Class: ClassName=Schematic Member=Component P6 0mm
+Added Member To Class: ClassName=Schematic Member=Component P7 0mm
+Added Member To Class: ClassName=Schematic Member=Component P8 0mm
+Added Member To Class: ClassName=Schematic Member=Component P9 0mm

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=0V Pin=R6-1
+Removed Member From Class: ClassName=Schematic Member=5kW PRE FET
+Change Component Comment : Designator=R6 Old Comment=20k New Comment=3k
+Change component parameters: Designator = "R6"; Footprint = "0805"; UniqueID = "\HGJKJNAB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805FR073KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R6-2
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_G Pin=R6-1
+Added Pin To Net: NetName=NetQ1_G Pin=U3-2
+Added Net: Name=NetQ1_G
