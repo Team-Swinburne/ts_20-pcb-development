@@ -1,0 +1,391 @@
+Removed Pin From Net: NetName=0V (ISO) Pin=C19-1
+Removed Pin From Net: NetName=5V (ISO) Pin=C19-2
+Removed Pin From Net: NetName=GLV- Pin=C20-1
+Removed Pin From Net: NetName=5V Pin=C20-2
+Removed Pin From Net: NetName=GLV- Pin=C21-1
+Removed Pin From Net: NetName=5V Pin=C21-2
+Removed Pin From Net: NetName=0V (ISO) Pin=C53-1
+Removed Pin From Net: NetName=5V (ISO) Pin=C53-2
+Removed Pin From Net: NetName=5V (ISO) Pin=D4-K
+Removed Pin From Net: NetName=GLV+ Pin=F2-2
+Removed Pin From Net: NetName=GLV- Pin=GLV- TP1-1
+Removed Pin From Net: NetName=0V (ISO) Pin=P1-A1
+Removed Pin From Net: NetName=5V (ISO) Pin=P1-A4
+Removed Pin From Net: NetName=USBDP Pin=P1-A6
+Removed Pin From Net: NetName=USBDM Pin=P1-A7
+Removed Pin From Net: NetName=5V (ISO) Pin=P1-A9
+Removed Pin From Net: NetName=0V (ISO) Pin=P1-A12
+Removed Pin From Net: NetName=0V (ISO) Pin=P1-B1
+Removed Pin From Net: NetName=5V (ISO) Pin=P1-B4
+Removed Pin From Net: NetName=USBDM Pin=P1-B7
+Removed Pin From Net: NetName=5V (ISO) Pin=P1-B9
+Removed Pin From Net: NetName=0V (ISO) Pin=P1-B12
+Removed Pin From Net: NetName=0V (ISO) Pin=P1-P1
+Removed Pin From Net: NetName=Green In Pin=P2-1
+Removed Pin From Net: NetName=TS Out Pin=P2-2
+Removed Pin From Net: NetName=AMS OK Pin=P2-3
+Removed Pin From Net: NetName=CHASSIS REF Pin=P2-4
+Removed Pin From Net: NetName=GLV- Pin=P2-5
+Removed Pin From Net: NetName=AIR Power Pin=P2-6
+Removed Pin From Net: NetName=AIR+ Pin=P2-7
+Removed Pin From Net: NetName=AIR Power Pin=P2-8
+Removed Pin From Net: NetName=AIR- Pin=P2-9
+Removed Pin From Net: NetName=Green Out Pin=P2-10
+Removed Pin From Net: NetName=TS In Pin=P2-11
+Removed Pin From Net: NetName=GLV- REF Pin=P2-13
+Removed Pin From Net: NetName=AIR Power Pin=P2-14
+Removed Pin From Net: NetName=AIR+ Feedback Out Pin=P2-15
+Removed Pin From Net: NetName=AIR+ Feedback In Pin=P2-16
+Removed Pin From Net: NetName=AIR- Feedback Out Pin=P2-17
+Removed Pin From Net: NetName=AIR+ Feedback In Pin=P2-18
+Removed Pin From Net: NetName=CANS Pin=P3-1
+Removed Pin From Net: NetName=CANL Pin=P3-2
+Removed Pin From Net: NetName=GLV- Pin=P3-3
+Removed Pin From Net: NetName=CANS Pin=P3-4
+Removed Pin From Net: NetName=CANH Pin=P3-5
+Removed Pin From Net: NetName=GLV+ Pin=P3-6
+Removed Pin From Net: NetName=HV MC- Pin=P4-1
+Removed Pin From Net: NetName=HV MC- Pin=P4-2
+Removed Pin From Net: NetName=HV Battery- Pin=P5-1
+Removed Pin From Net: NetName=HV Battery- Pin=P5-2
+Removed Pin From Net: NetName=HV Battery+ Pin=P6-1
+Removed Pin From Net: NetName=HV Battery+ Pin=P6-2
+Removed Pin From Net: NetName=HV MC+ Pin=P7-1
+Removed Pin From Net: NetName=HV MC+ Pin=P7-2
+Removed Pin From Net: NetName=HV Battery+ Pin=P8-1
+Removed Pin From Net: NetName=HV Battery+ Pin=P8-2
+Removed Pin From Net: NetName=HV Battery- Pin=P9-1
+Removed Pin From Net: NetName=HV Battery- Pin=P9-2
+Removed Pin From Net: NetName=GLV- Pin=P10-1
+Removed Pin From Net: NetName=CHASSIS REF Pin=P10-3
+Removed Pin From Net: NetName=GLV- REF Pin=P10-4
+Removed Pin From Net: NetName=IMD Data Pin=P10-5
+Removed Pin From Net: NetName=IMD OK Pin=P10-6
+Removed Pin From Net: NetName=HV MC+ Pin=R11-2
+Removed Pin From Net: NetName=0V (ISO) Pin=R12-1
+Removed Pin From Net: NetName=GLV- Pin=R13-2
+Removed Pin From Net: NetName=5V (ISO) Pin=R15-2
+Removed Pin From Net: NetName=HV Battery+ Pin=R17-1
+Removed Pin From Net: NetName=0V (ISO) Pin=R18-1
+Removed Pin From Net: NetName=PA6 Pin=R18-2
+Removed Pin From Net: NetName=GLV- Pin=R19-1
+Removed Pin From Net: NetName=GLV- Pin=R30-1
+Removed Pin From Net: NetName=GLV- Pin=R35-1
+Removed Pin From Net: NetName=5V (ISO) Pin=U9-4
+Removed Pin From Net: NetName=5V (ISO) Pin=U10-4
+Removed Pin From Net: NetName=5V (ISO) Pin=U11-1
+Removed Pin From Net: NetName=PA6 Pin=U11-2
+Removed Pin From Net: NetName=0V (ISO) Pin=U11-3
+Removed Pin From Net: NetName=GLV- Pin=U11-4
+Removed Pin From Net: NetName=5V Pin=U11-6
+Removed Pin From Net: NetName=AMS OK Pin=U15-1
+Removed Pin From Net: NetName=5V Pin=U16-1
+Removed Member From Class: ClassName=U_Precharge Member=AIR POW TP1
+Removed Member From Class: ClassName=U_Precharge Member=C19
+Removed Member From Class: ClassName=U_Precharge Member=C20
+Removed Member From Class: ClassName=U_Precharge Member=C21
+Removed Member From Class: ClassName=U_STM32 Member=C53
+Removed Member From Class: ClassName=Top Level Member=F2
+Removed Member From Class: ClassName=U_STM32 Member=P1
+Removed Member From Class: ClassName=Top Level Member=P2
+Removed Member From Class: ClassName=Top Level Member=P3
+Removed Member From Class: ClassName=Top Level Member=P4
+Removed Member From Class: ClassName=Top Level Member=P5
+Removed Member From Class: ClassName=Top Level Member=P6
+Removed Member From Class: ClassName=Top Level Member=P7
+Removed Member From Class: ClassName=Top Level Member=P8
+Removed Member From Class: ClassName=Top Level Member=P9
+Removed Member From Class: ClassName=Top Level Member=P10
+Removed Member From Class: ClassName=U_Precharge Member=PCH G TP1
+Removed Member From Class: ClassName=U_Precharge Member=R10
+Removed Member From Class: ClassName=U_Precharge Member=R12
+Removed Member From Class: ClassName=U_Precharge Member=R13
+Removed Member From Class: ClassName=U_Precharge Member=R18
+Removed Member From Class: ClassName=U_Safety Loops Member=R35
+Removed Member From Class: ClassName=U_STM32 Member=R82
+Removed Member From Class: ClassName=U_STM32 Member=R83
+Removed Member From Class: ClassName=U_Precharge Member=U9
+Removed Member From Class: ClassName=U_Precharge Member=U11
+Added Component: Designator=AIR POW TP?(SMD Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71E104KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71E104KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71E104KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=HV BATTERY+(39300020)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM21351-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "39300020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "5.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=HV BATTERY-(39300020)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM21351-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "39300020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "5.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=HV IMD+(39300020)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM21351-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "39300020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "5.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=HV IMD-(39300020)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM21351-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "39300020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "5.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=HV MC+(39300020)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM21351-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "39300020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "5.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=HV MC-(39300020)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM21351-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "39300020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "5.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=IMD INTERFACE(39300080)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM21354-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "39300080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "5.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=PCH G TP?(SMD Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=PRIMARY INTERFACE(39300240)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM21362-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "39300240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "5.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR07680RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR071K5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR07680RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=U?(ON 4-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTV-817S-TA1/160-1893-2-ND/388451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "160-1893-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LTV-817S-TA1"; VariantName = "[No Variations]"
+Added Component: Designator=U?(AD 6-SOIC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/analog-devices-inc/ADUM4120-1ARIZ/ADUM4120-1ARIZ-ND/7324273"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "ADUM4120-1ARIZ-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analogue Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ADUM4120"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0V (ISO) Pin=C?-1
+Added Pin To Net: NetName=0V (ISO) Pin=C?-1
+Added Pin To Net: NetName=GLV- Pin=C?-1
+Added Pin To Net: NetName=GLV- Pin=C?-1
+Added Pin To Net: NetName=5V (ISO) Pin=C?-2
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=PB1 Pin=C?-2
+Added Pin To Net: NetName=AIR Power Pin=D2-K
+Added Pin To Net: NetName=5V Pin=D4-K
+Added Pin To Net: NetName=AIR Power Pin=D6-K
+Added Pin To Net: NetName=HV Battery+ Pin=HV BATTERY+-1
+Added Pin To Net: NetName=HV Battery+ Pin=HV BATTERY+-2
+Added Pin To Net: NetName=HV Battery- Pin=HV BATTERY--1
+Added Pin To Net: NetName=HV Battery- Pin=HV BATTERY--2
+Added Pin To Net: NetName=HV MC+ Pin=HV IMD+-1
+Added Pin To Net: NetName=HV MC+ Pin=HV IMD+-2
+Added Pin To Net: NetName=HV MC- Pin=HV IMD--1
+Added Pin To Net: NetName=HV MC- Pin=HV IMD--2
+Added Pin To Net: NetName=HV MC+ Pin=HV MC+-1
+Added Pin To Net: NetName=HV MC+ Pin=HV MC+-2
+Added Pin To Net: NetName=HV MC- Pin=HV MC--1
+Added Pin To Net: NetName=HV MC- Pin=HV MC--2
+Added Pin To Net: NetName=GLV+ Pin=IMD INTERFACE-2
+Added Pin To Net: NetName=GLV- REF Pin=IMD INTERFACE-3
+Added Pin To Net: NetName=CHASSIS REF Pin=IMD INTERFACE-4
+Added Pin To Net: NetName=IMD OK Pin=IMD INTERFACE-6
+Added Pin To Net: NetName=IMD Data Pin=IMD INTERFACE-8
+Added Pin To Net: NetName=GLV+ Pin=PRIMARY INTERFACE-1
+Added Pin To Net: NetName=CANH Pin=PRIMARY INTERFACE-3
+Added Pin To Net: NetName=CANL Pin=PRIMARY INTERFACE-4
+Added Pin To Net: NetName=CANS Pin=PRIMARY INTERFACE-5
+Added Pin To Net: NetName=Green Out Pin=PRIMARY INTERFACE-7
+Added Pin To Net: NetName=Green In Pin=PRIMARY INTERFACE-8
+Added Pin To Net: NetName=TS In Pin=PRIMARY INTERFACE-9
+Added Pin To Net: NetName=TS Out Pin=PRIMARY INTERFACE-10
+Added Pin To Net: NetName=AMS OK Pin=PRIMARY INTERFACE-12
+Added Pin To Net: NetName=GLV- REF Pin=PRIMARY INTERFACE-13
+Added Pin To Net: NetName=CHASSIS REF Pin=PRIMARY INTERFACE-14
+Added Pin To Net: NetName=AIR+ Feedback Out Pin=PRIMARY INTERFACE-17
+Added Pin To Net: NetName=AIR+ Feedback In Pin=PRIMARY INTERFACE-19
+Added Pin To Net: NetName=AIR+ Pin=PRIMARY INTERFACE-20
+Added Pin To Net: NetName=AIR- Feedback Out Pin=PRIMARY INTERFACE-21
+Added Pin To Net: NetName=AIR+ Feedback In Pin=PRIMARY INTERFACE-23
+Added Pin To Net: NetName=AIR- Pin=PRIMARY INTERFACE-24
+Added Pin To Net: NetName=AIR Power Pin=R6-2
+Added Pin To Net: NetName=5V Pin=R15-2
+Added Pin To Net: NetName=AIR+ Feedback In Pin=R19-1
+Added Pin To Net: NetName=AIR Power Pin=R22-2
+Added Pin To Net: NetName=TS In Pin=R30-1
+Added Pin To Net: NetName=IMD Data Pin=R51-1
+Added Pin To Net: NetName=IMD Data Pin=R53-2
+Added Pin To Net: NetName=0V (ISO) Pin=R?-1
+Added Pin To Net: NetName=0V (ISO) Pin=R?-1
+Added Pin To Net: NetName=AMS OK Pin=R?-1
+Added Pin To Net: NetName=GLV- Pin=R?-2
+Added Pin To Net: NetName=PA6 Pin=R?-2
+Added Pin To Net: NetName=5V Pin=U10-4
+Added Pin To Net: NetName=5V (ISO) Pin=U?-1
+Added Pin To Net: NetName=AIR Power Pin=U?-1
+Added Pin To Net: NetName=PA6 Pin=U?-2
+Added Pin To Net: NetName=0V (ISO) Pin=U?-3
+Added Pin To Net: NetName=5V (ISO) Pin=U?-4
+Added Pin To Net: NetName=AIR+ Feedback In Pin=U?-4
+Added Pin To Net: NetName=5V Pin=U?-6
+Added Pin To Net: NetName=12V Pin=U15-1
+Added Pin To Net: NetName=12V Pin=U16-1
+Added Net: Name=12V
+Added Pin To Net: NetName=DISCHARGE DISABLE Pin=PRIMARY INTERFACE-11
+Added Net: Name=DISCHARGE DISABLE
+Added Pin To Net: NetName=NetAIR POW TP?_1 Pin=AIR POW TP?-1
+Added Pin To Net: NetName=NetAIR POW TP?_1 Pin=R?-1
+Added Net: Name=NetAIR POW TP?_1
+Added Pin To Net: NetName=NetPCH G TP?_1 Pin=PCH G TP?-1
+Added Pin To Net: NetName=NetPCH G TP?_1 Pin=R19-2
+Added Pin To Net: NetName=NetPCH G TP?_1 Pin=U?-5
+Added Net: Name=NetPCH G TP?_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-3
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=U_Precharge Member=Component AIR POW TP? 0mm
+Added Member To Class: ClassName=U_Precharge Member=Component C? 100nF
+Added Member To Class: ClassName=U_Precharge Member=Component C? 100nF
+Added Member To Class: ClassName=U_Precharge Member=Component C? 10uF
+Added Member To Class: ClassName=U_STM32 Member=Component C? 100nF
+Added Member To Class: ClassName=Top Level Member=Component HV BATTERY+ 39300020
+Added Member To Class: ClassName=Top Level Member=Component HV BATTERY- 39300020
+Added Member To Class: ClassName=Top Level Member=Component HV IMD+ 39300020
+Added Member To Class: ClassName=Top Level Member=Component HV IMD- 39300020
+Added Member To Class: ClassName=Top Level Member=Component HV MC+ 39300020
+Added Member To Class: ClassName=Top Level Member=Component HV MC- 39300020
+Added Member To Class: ClassName=Top Level Member=Component IMD INTERFACE 39300080
+Added Member To Class: ClassName=U_Precharge Member=Component PCH G TP? 0mm
+Added Member To Class: ClassName=Top Level Member=Component PRIMARY INTERFACE 39300240
+Added Member To Class: ClassName=U_Precharge Member=Component R? 1.5k
+Added Member To Class: ClassName=U_Precharge Member=Component R? 20k
+Added Member To Class: ClassName=U_Precharge Member=Component R? 680R
+Added Member To Class: ClassName=U_Precharge Member=Component R? 20k
+Added Member To Class: ClassName=U_Safety Loops Member=Component R? 680R
+Added Member To Class: ClassName=U_Precharge Member=Component U? LTV-817S-TA1
+Added Member To Class: ClassName=U_Precharge Member=Component U? ADUM4120

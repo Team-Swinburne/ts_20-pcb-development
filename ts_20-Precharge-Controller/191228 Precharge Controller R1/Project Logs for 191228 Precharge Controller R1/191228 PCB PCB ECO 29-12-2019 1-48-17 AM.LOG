@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=CANH Pin=PRIMARY INTERFACE-3
+Removed Pin From Net: NetName=CANL Pin=PRIMARY INTERFACE-4
+Removed Member From Class: ClassName=U_Precharge Member=C?
+Removed Member From Class: ClassName=U_Precharge Member=R?
+Change Component Designator: OldDesignator=AIR POW TP? NewDesignator=AIR POW TP1
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C53
+Change Component Designator: OldDesignator=PCH G TP? NewDesignator=PCH G TP1
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=U? NewDesignator=U11
+Added Component: Designator=BOOT1(TH 2.54mm Header 2x3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH 2.54mm Header 2x3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=SERIAL(TH 2.54mm Header 1x4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH 2.54mm Header 1x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=STLINK(TH 2.54mm Header 2x5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TH 2.54mm Header 2x5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V (ISO) Pin=BOOT1-1
+Added Pin To Net: NetName=3.3V (ISO) Pin=BOOT1-2
+Added Pin To Net: NetName=BOOT0 Pin=BOOT1-3
+Added Pin To Net: NetName=BOOT1 Pin=BOOT1-4
+Added Pin To Net: NetName=0V (ISO) Pin=BOOT1-5
+Added Pin To Net: NetName=0V (ISO) Pin=BOOT1-6
+Added Pin To Net: NetName=NetC11_2 Pin=PRIMARY INTERFACE-3
+Added Pin To Net: NetName=CANH Pin=PRIMARY INTERFACE-4
+Added Pin To Net: NetName=CANL Pin=PRIMARY INTERFACE-5
+Added Pin To Net: NetName=3.3V (ISO) Pin=SERIAL-1
+Added Pin To Net: NetName=PA9 Pin=SERIAL-2
+Added Pin To Net: NetName=PA10 Pin=SERIAL-3
+Added Pin To Net: NetName=0V (ISO) Pin=SERIAL-4
+Added Pin To Net: NetName=0V (ISO) Pin=STLINK-1
+Added Pin To Net: NetName=SWCLK Pin=STLINK-3
+Added Pin To Net: NetName=SWDIO Pin=STLINK-5
+Added Pin To Net: NetName=3.3V (ISO) Pin=STLINK-7
+Change Net Name : Old Net Name=CANH New Net Name=CANL
+Change Net Name : Old Net Name=CANL New Net Name=CANS
+Change Net Name : Old Net Name=NetAIR POW TP?_1 New Net Name=NetAIR POW TP1_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=CANH
+Change Net Name : Old Net Name=NetPCH G TP?_1 New Net Name=NetPCH G TP1_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR10_2
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=U15-2
+Added Net: Name=NetR35_2
+Added Member To Class: ClassName=U_STM32 Member=Component BOOT1 2.54mm
+Added Member To Class: ClassName=U_Precharge Member=Component C19 100nF
+Added Member To Class: ClassName=U_Precharge Member=Component C20 100nF
+Added Member To Class: ClassName=U_Precharge Member=Component R10 680R
+Added Member To Class: ClassName=U_Precharge Member=Component R12 20k
+Added Member To Class: ClassName=U_Precharge Member=Component R13 1.5k
+Added Member To Class: ClassName=U_Precharge Member=Component R18 20k
+Added Member To Class: ClassName=U_STM32 Member=Component SERIAL 2.54mm
+Added Member To Class: ClassName=U_STM32 Member=Component STLINK 2.54mm
+Added Member To Class: ClassName=U_Precharge Member=Component U11 ADUM4120

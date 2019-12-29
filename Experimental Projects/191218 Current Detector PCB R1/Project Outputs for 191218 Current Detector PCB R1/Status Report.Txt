@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [191218 Current Detector PCB R1.PrjPcb]
+   Generated File[Pick Place for PCB.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:04:03 PM On 23/12/2019

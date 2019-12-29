@@ -1,0 +1,106 @@
+Added Component: Designator=C54(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71A105KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C55(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71E104KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C56(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71E104KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C57(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71E104KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C58(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71A105KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C59(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71E104KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C60(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71A105KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C65(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "490-10511-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR61A226ME51L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=U3(ON SOT-23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/on-semiconductor/NUP2105LT1G/NUP2105LT1GOSCT-ND/1485001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "NUP2105LT1GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NUP2105L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0V (ISO) Pin=C54-1
+Added Pin To Net: NetName=3.3V (ISO) Pin=C54-2
+Added Pin To Net: NetName=0V (ISO) Pin=C55-1
+Added Pin To Net: NetName=3.3V (ISO) Pin=C55-2
+Added Pin To Net: NetName=0V (ISO) Pin=C56-1
+Added Pin To Net: NetName=3.3V (ISO) Pin=C56-2
+Added Pin To Net: NetName=0V (ISO) Pin=C57-1
+Added Pin To Net: NetName=3.3V (ISO) Pin=C57-2
+Added Pin To Net: NetName=0V (ISO) Pin=C58-1
+Added Pin To Net: NetName=5V (ISO) Pin=C58-2
+Added Pin To Net: NetName=0V (ISO) Pin=C59-1
+Added Pin To Net: NetName=3.3V (ISO) Pin=C59-2
+Added Pin To Net: NetName=0V (ISO) Pin=C60-1
+Added Pin To Net: NetName=3.3V (ISO) Pin=C60-2
+Added Pin To Net: NetName=0V (ISO) Pin=C65-1
+Added Pin To Net: NetName=NetC65_2 Pin=C65-2
+Added Pin To Net: NetName=NetC12_2 Pin=U3-1
+Added Pin To Net: NetName=NetC13_2 Pin=U3-2
+Added Pin To Net: NetName=CANS Pin=U3-3
+Added Member To Class: ClassName=U_STM32 Member=Component C54 1uF
+Added Member To Class: ClassName=U_STM32 Member=Component C55 100nF
+Added Member To Class: ClassName=U_STM32 Member=Component C56 100nF
+Added Member To Class: ClassName=U_STM32 Member=Component C57 100nF
+Added Member To Class: ClassName=U_STM32 Member=Component C58 1uF
+Added Member To Class: ClassName=U_STM32 Member=Component C59 100nF
+Added Member To Class: ClassName=U_STM32 Member=Component C60 1uF
+Added Member To Class: ClassName=U_STM32 Member=Component C65 22uF
+Added Member To Class: ClassName=U_CAN Member=Component U3 NUP2105L

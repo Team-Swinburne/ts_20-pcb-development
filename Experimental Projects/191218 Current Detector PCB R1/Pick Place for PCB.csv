@@ -1,0 +1,44 @@
+Altium Designer Pick and Place Locations
+C:\Users\patri\Google Drive\ts_19\Car\5. P&E\Future Schematics\Experimental Projects\191218 Current Detector PCB R1\Project Outputs for 191218 Current Detector PCB R1\Pick Place for PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/12/19
+Time:       22:04
+Revision:   a186c69f3627a87bb16c0fedf9503e4f33ab0a6e
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"PULL DOWN!","30k","TopLayer","0805","113.5000","34.4500","90",""
+"R7","3k","TopLayer","0805","102.2880","98.6738","360",""
+"D2","Blue","TopLayer","0805_LED","98.5000","92.4500","90","LED BLUE CLEAR 2012 SMD"
+"5kW OUT","0mm","TopLayer","TH_Test_Point","96.3440","77.4060","90",""
+"0V","0mm","TopLayer","TH_Test_Point","97.5000","58.2500","0",""
+"P4","DT13-12P","TopLayer","DT13-12P","71.7570","67.3650","270",""
+"PREAMP","0mm","TopLayer","TH_Test_Point","122.7500","77.7500","0",""
+"POST AMP","0mm","TopLayer","TH_Test_Point","107.0000","71.5000","270",""
+"REF","0mm","TopLayer","TH_Test_Point","122.4990","92.9400","0",""
+"5V","0mm","TopLayer","TH_Test_Point","94.5000","58.2500","270",""
+"GLV+","0mm","TopLayer","TH_Test_Point","91.5000","58.2500","270",""
+"F1","0ZCF0200AF2C","TopLayer","2920","87.0320","71.6900","270","SMD 24V 2A Fuse"
+"D1","SD560BTR","TopLayer","SMB_Diode","86.7780","60.5450","270","1.2V_F 600V 5A SMB"
+"U4","LM324D","TopLayer","TI_14-SOIC","115.0740","81.3000","360","IC OPAMP GP 4 CIRCUIT 14SOIC"
+"U3","LMV339IDR","TopLayer","TI_14-SOIC","105.6080","91.2290","0","Comparator General Purpose Open Collector 14-SOIC"
+"U2","744272121","TopLayer","Wurth_4-PC_Pad","89.3100","87.1100","180","Common Mode Choke 120UH 2.5A 2LN 460 OHM SMD"
+"U1","R-78C5.0-1.0","TopLayer","RECOM_3-SIP","91.8180","48.5280","360","CONV DC/DC 1A 5V OUT SIP VERT"
+"R6","1.5k","TopLayer","0805","98.4738","87.5120","270",""
+"R5","1k","TopLayer","0805","123.5120","83.5262","180",""
+"R4","100R","TopLayer","0805","101.9738","78.2620","270",""
+"R3","10K (Var)","TopLayer","B_3296","116.6062","90.3592","270",""
+"R2","1k","TopLayer","0805","111.5500","75.5000","180",""
+"R1","10k","TopLayer","0805","112.6192","93.3090","90",""
+"Q1","2N7002K","TopLayer","ON_SOT-23_MOSFET","102.1180","83.8120","180","60V 380mA, NFET MOSTFET (Small Signal)"
+"P1","26013115","TopLayer","26013115","104.1000","40.4000","180",""
+"C6","100nF","TopLayer","0805","117.9500","75.5000","180",""
+"C5","100nF","TopLayer","0805","105.5262","83.7380","90",""
+"C4","100nF","TopLayer","0805","123.5120","81.0262","180",""
+"C3","100nF","TopLayer","0805","122.5252","87.3400","90",""
+"C2","22uF","TopLayer","1206","93.4720","44.8450","360",""
+"C1","10uF","TopLayer","0805","88.5821","44.8450","180",""

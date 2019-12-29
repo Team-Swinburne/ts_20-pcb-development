@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=5kW ACTIVE NewDesignator=D2
+Added Component: Designator=R8(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR0730KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0V Pin=R8-1
+Added Pin To Net: NetName=High Sensitivity Pin=R8-2
+Added Member To Class: ClassName=Schematic Member=Component R8 30k

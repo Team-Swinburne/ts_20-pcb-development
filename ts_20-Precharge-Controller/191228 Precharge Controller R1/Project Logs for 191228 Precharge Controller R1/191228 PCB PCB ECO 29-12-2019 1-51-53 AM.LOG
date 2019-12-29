@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=U_STM32 Member=C19
+Removed Member From Class: ClassName=U_Safety Loops Member=R12
+Added Member To Class: ClassName=U_STM32 Member=Component C53 100nF
+Added Member To Class: ClassName=U_Safety Loops Member=Component R35 680R
+Added Member To Class: ClassName=U_Precharge Member=Component U9 LTV-817S-TA1

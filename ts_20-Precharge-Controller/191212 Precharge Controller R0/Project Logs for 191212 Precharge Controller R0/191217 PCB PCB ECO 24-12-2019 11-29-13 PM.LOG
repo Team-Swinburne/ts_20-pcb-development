@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=0V (ISO) Pin=C19-1
+Removed Pin From Net: NetName=5V (ISO) Pin=C19-2
+Removed Pin From Net: NetName=GLV- Pin=C20-1
+Removed Pin From Net: NetName=5V Pin=C20-2
+Removed Pin From Net: NetName=GLV- Pin=C21-1
+Removed Pin From Net: NetName=5V Pin=C21-2
+Removed Pin From Net: NetName=0V (ISO) Pin=R12-1
+Removed Pin From Net: NetName=GLV- Pin=R13-2
+Removed Pin From Net: NetName=0V (ISO) Pin=R18-1
+Removed Pin From Net: NetName=PA6 Pin=R18-2
+Removed Pin From Net: NetName=GLV- Pin=R19-1
+Removed Pin From Net: NetName=GLV- Pin=R30-1
+Removed Pin From Net: NetName=GLV- Pin=R35-1
+Removed Pin From Net: NetName=5V (ISO) Pin=U9-4
+Removed Pin From Net: NetName=5V (ISO) Pin=U11-1
+Removed Pin From Net: NetName=PA6 Pin=U11-2
+Removed Pin From Net: NetName=0V (ISO) Pin=U11-3
+Removed Pin From Net: NetName=GLV- Pin=U11-4
+Removed Pin From Net: NetName=5V Pin=U11-6
+Removed Pin From Net: NetName=AMS OK Pin=U15-1
+Removed Pin From Net: NetName=5V Pin=U16-1
+Removed Member From Class: ClassName=U_Precharge Member=AIR POW TP1
+Removed Member From Class: ClassName=U_Precharge Member=C19
+Removed Member From Class: ClassName=U_Precharge Member=C20
+Removed Member From Class: ClassName=U_Precharge Member=C21
+Removed Member From Class: ClassName=U_Precharge Member=R10
+Removed Member From Class: ClassName=U_Precharge Member=R12
+Removed Member From Class: ClassName=U_Precharge Member=R13
+Removed Member From Class: ClassName=U_Precharge Member=R18
+Removed Member From Class: ClassName=U_Safety Loops Member=R35
+Removed Member From Class: ClassName=U_Precharge Member=U9
+Removed Member From Class: ClassName=U_Precharge Member=U11
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71E104KA37L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR07680RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR071K5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "FR-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR07680RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680R"; VariantName = "[No Variations]"
+Added Component: Designator=U?(ON 4-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTV-817S-TA1/160-1893-2-ND/388451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "160-1893-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LTV-817S-TA1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0V (ISO) Pin=C?-1
+Added Pin To Net: NetName=PB1 Pin=C?-2
+Added Pin To Net: NetName=PA6 Pin=PCH G TP1-1
+Added Pin To Net: NetName=0V (ISO) Pin=R19-1
+Added Pin To Net: NetName=PA6 Pin=R19-2
+Added Pin To Net: NetName=TS In Pin=R30-1
+Added Pin To Net: NetName=0V (ISO) Pin=R?-1
+Added Pin To Net: NetName=AMS OK Pin=R?-1
+Added Pin To Net: NetName=GLV- Pin=R?-2
+Added Pin To Net: NetName=5V (ISO) Pin=U?-4
+Added Pin To Net: NetName=12V Pin=U15-1
+Added Pin To Net: NetName=12V Pin=U16-1
+Added Net: Name=12V
+Added Pin To Net: NetName=DISCHARGE DISABLE Pin=P2-12
+Added Net: Name=DISCHARGE DISABLE
+Added Pin To Net: NetName=NetAIR POW TP?_1 Pin=R?-1
+Added Net: Name=NetAIR POW TP?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-3
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=U_STM32 Member=Component C? 100nF
+Added Member To Class: ClassName=U_Precharge Member=Component R? 1.5k
+Added Member To Class: ClassName=U_Precharge Member=Component R? 20k
+Added Member To Class: ClassName=U_Precharge Member=Component R? 680R
+Added Member To Class: ClassName=U_Safety Loops Member=Component R? 680R
+Added Member To Class: ClassName=U_Precharge Member=Component U? LTV-817S-TA1

@@ -1,0 +1,11 @@
+Added Component: Designator=U4(RECOM 3-SIP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com.au/product-detail/en/recom-power/R-78C5.0-1.0/945-1395-5-ND/2652148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "945-1395-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation"; Value = "Non-Isolated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Recom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R-78C5.0-1.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_2 Pin=U4-1
+Added Pin To Net: NetName=0V Pin=U4-2
+Added Pin To Net: NetName=5V Pin=U4-3
+Added Member To Class: ClassName=U_Power Supply Member=Component U4 R-78C5.0-1.0

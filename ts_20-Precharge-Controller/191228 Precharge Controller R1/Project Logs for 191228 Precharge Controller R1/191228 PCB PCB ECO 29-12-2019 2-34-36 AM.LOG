@@ -1,0 +1,247 @@
+Removed Member From Class: ClassName=U_Sensors Member=C2
+Removed Member From Class: ClassName=U_Sensors Member=C4
+Removed Member From Class: ClassName=U_Precharge Member=C5
+Removed Member From Class: ClassName=U_STM32 Member=C9
+Removed Member From Class: ClassName=U_STM32 Member=C10
+Removed Member From Class: ClassName=U_CAN Member=C19
+Removed Member From Class: ClassName=U_STM32 Member=C19
+Removed Member From Class: ClassName=U_CAN Member=C20
+Removed Member From Class: ClassName=U_CAN Member=C23
+Removed Member From Class: ClassName=U_CAN Member=C24
+Removed Member From Class: ClassName=U_STM32 Member=C24
+Removed Member From Class: ClassName=U_Power Supply Member=C26
+Removed Member From Class: ClassName=U_Precharge Member=C26
+Removed Member From Class: ClassName=U_CAN Member=C27
+Removed Member From Class: ClassName=U_Precharge Member=C27
+Removed Member From Class: ClassName=U_CAN Member=C29
+Removed Member From Class: ClassName=U_Precharge Member=C29
+Removed Member From Class: ClassName=U_CAN Member=C30
+Removed Member From Class: ClassName=U_CAN Member=C32
+Removed Member From Class: ClassName=U_Precharge Member=C32
+Removed Member From Class: ClassName=U_STM32 Member=C35
+Removed Member From Class: ClassName=U_Precharge Member=C50
+Removed Member From Class: ClassName=U_CAN Member=C52
+Removed Member From Class: ClassName=U_Sensors Member=C52
+Removed Member From Class: ClassName=U_Safety Loops Member=D6
+Removed Member From Class: ClassName=U_Safety Loops Member=D7
+Removed Member From Class: ClassName=U_Power Supply Member=D9
+Removed Member From Class: ClassName=U_Precharge Member=D9
+Removed Member From Class: ClassName=U_Precharge Member=D11
+Removed Member From Class: ClassName=U_Precharge Member=D15
+Removed Member From Class: ClassName=U_Precharge Member=R3
+Removed Member From Class: ClassName=U_STM32 Member=R5
+Removed Member From Class: ClassName=U_Safety Loops Member=R9
+Removed Member From Class: ClassName=U_STM32 Member=R12
+Removed Member From Class: ClassName=U_Sensors Member=R13
+Removed Member From Class: ClassName=U_Power Supply Member=R14
+Removed Member From Class: ClassName=U_Sensors Member=R14
+Removed Member From Class: ClassName=U_Safety Loops Member=R15
+Removed Member From Class: ClassName=U_Sensors Member=R16
+Removed Member From Class: ClassName=U_Power Supply Member=R18
+Removed Member From Class: ClassName=U_Sensors Member=R20
+Removed Member From Class: ClassName=U_STM32 Member=R20
+Removed Member From Class: ClassName=U_Sensors Member=R25
+Removed Member From Class: ClassName=U_STM32 Member=R26
+Removed Member From Class: ClassName=U_Precharge Member=R28
+Removed Member From Class: ClassName=U_Sensors Member=R28
+Removed Member From Class: ClassName=U_STM32 Member=R30
+Removed Member From Class: ClassName=U_Precharge Member=R33
+Removed Member From Class: ClassName=U_Sensors Member=R33
+Removed Member From Class: ClassName=U_Precharge Member=R38
+Removed Member From Class: ClassName=U_Sensors Member=R39
+Removed Member From Class: ClassName=U_Precharge Member=R40
+Removed Member From Class: ClassName=U_Sensors Member=R40
+Removed Member From Class: ClassName=U_Sensors Member=R42
+Removed Member From Class: ClassName=U_STM32 Member=R42
+Removed Member From Class: ClassName=U_Precharge Member=R45
+Removed Member From Class: ClassName=U_STM32 Member=R45
+Removed Member From Class: ClassName=U_Safety Loops Member=R49
+Removed Member From Class: ClassName=U_Safety Loops Member=R53
+Removed Member From Class: ClassName=U_Safety Loops Member=R56
+Removed Member From Class: ClassName=U_Precharge Member=R58
+Removed Member From Class: ClassName=U_Safety Loops Member=R61
+Removed Member From Class: ClassName=U_STM32 Member=R61
+Removed Member From Class: ClassName=U_Safety Loops Member=R63
+Removed Member From Class: ClassName=U_Safety Loops Member=R68
+Removed Member From Class: ClassName=U_Precharge Member=R69
+Removed Member From Class: ClassName=U_Safety Loops Member=R69
+Removed Member From Class: ClassName=U_STM32 Member=R69
+Removed Member From Class: ClassName=U_Precharge Member=R74
+Removed Member From Class: ClassName=U_Precharge Member=R76
+Removed Member From Class: ClassName=U_Precharge Member=R77
+Removed Member From Class: ClassName=U_Sensors Member=R79
+Removed Member From Class: ClassName=U_Precharge Member=U5
+Removed Member From Class: ClassName=U_Precharge Member=U6
+Removed Member From Class: ClassName=U_Sensors Member=U6
+Removed Member From Class: ClassName=U_CAN Member=U7
+Removed Member From Class: ClassName=U_Power Supply Member=U7
+Removed Member From Class: ClassName=U_CAN Member=U8
+Removed Member From Class: ClassName=U_Safety Loops Member=U8
+Removed Member From Class: ClassName=U_Sensors Member=U14
+Removed Member From Class: ClassName=U_Sensors Member=U16
+Removed Member From Class: ClassName=U_Precharge Member=U23
+Removed Member From Class: ClassName=U_Safety Loops Member=U24
+Removed Member From Class: ClassName=U_Precharge Member=U25
+Added Component: Designator=U3(ON SOT-23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/on-semiconductor/NUP2105LT1G/NUP2105LT1GOSCT-ND/1485001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "NUP2105LT1GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NUP2105L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_2 Pin=U3-1
+Added Pin To Net: NetName=NetC13_2 Pin=U3-2
+Added Pin To Net: NetName=CANS Pin=U3-3
+Added Member To Class: ClassName=U_Power Supply Member=Component 1 0mm
+Added Member To Class: ClassName=U_Power Supply Member=Component 4 Red
+Added Member To Class: ClassName=U_Power Supply Member=Component 6 0mm
+Added Member To Class: ClassName=U_CAN Member=Component C1 10nF
+Added Member To Class: ClassName=U_CAN Member=Component C2 100nF
+Added Member To Class: ClassName=U_CAN Member=Component C3 100nF
+Added Member To Class: ClassName=U_CAN Member=Component C5 10uF
+Added Member To Class: ClassName=U_CAN Member=Component C6 100nF
+Added Member To Class: ClassName=U_CAN Member=Component C7 10uF
+Added Member To Class: ClassName=U_CAN Member=Component C8 100nF
+Added Member To Class: ClassName=U_CAN Member=Component C9 22pF
+Added Member To Class: ClassName=U_CAN Member=Component C10 100pF
+Added Member To Class: ClassName=U_CAN Member=Component C11 100pF
+Added Member To Class: ClassName=U_CAN Member=Component C12 100pF
+Added Member To Class: ClassName=U_CAN Member=Component C13 100pF
+Added Member To Class: ClassName=U_Power Supply Member=Component C14 10uF
+Added Member To Class: ClassName=U_Power Supply Member=Component C15 22uF
+Added Member To Class: ClassName=U_Precharge Member=Component C17 100nF
+Added Member To Class: ClassName=U_Precharge Member=Component C18 10uF
+Added Member To Class: ClassName=U_Precharge Member=Component C19 100nF
+Added Member To Class: ClassName=U_Precharge Member=Component C20 100nF
+Added Member To Class: ClassName=U_Precharge Member=Component C22 100nF
+Added Member To Class: ClassName=U_Precharge Member=Component C23 100nF
+Added Member To Class: ClassName=U_Precharge Member=Component C24 10uF
+Added Member To Class: ClassName=U_Sensors Member=Component C25 10uF
+Added Member To Class: ClassName=U_Sensors Member=Component C28 100nF
+Added Member To Class: ClassName=U_Sensors Member=Component C29 100pF
+Added Member To Class: ClassName=U_Sensors Member=Component C30 100nF
+Added Member To Class: ClassName=U_Sensors Member=Component C33 100nF
+Added Member To Class: ClassName=U_Sensors Member=Component C36 10uF
+Added Member To Class: ClassName=U_Sensors Member=Component C37 100nF
+Added Member To Class: ClassName=U_Sensors Member=Component C38 100pF
+Added Member To Class: ClassName=U_Sensors Member=Component C39 100nF
+Added Member To Class: ClassName=U_Sensors Member=Component C41 100pF
+Added Member To Class: ClassName=U_Sensors Member=Component C42 100nF
+Added Member To Class: ClassName=U_Sensors Member=Component C43 10uF
+Added Member To Class: ClassName=U_Sensors Member=Component C46 100nF
+Added Member To Class: ClassName=U_Sensors Member=Component C48 100nF
+Added Member To Class: ClassName=U_Sensors Member=Component C49 100nF
+Added Member To Class: ClassName=U_Sensors Member=Component C51 100nF
+Added Member To Class: ClassName=U_STM32 Member=Component C52 100nF
+Added Member To Class: ClassName=U_STM32 Member=Component C53 100nF
+Added Member To Class: ClassName=U_STM32 Member=Component C61 22pF
+Added Member To Class: ClassName=U_STM32 Member=Component C62 22pF
+Added Member To Class: ClassName=U_STM32 Member=Component C63 22pF
+Added Member To Class: ClassName=U_STM32 Member=Component C64 22pF
+Added Member To Class: ClassName=U_Power Supply Member=Component D1 SD560BTR
+Added Member To Class: ClassName=U_Precharge Member=Component D2 SD560BTR
+Added Member To Class: ClassName=U_Precharge Member=Component D4 SD560BTR
+Added Member To Class: ClassName=U_Precharge Member=Component D5 Orange
+Added Member To Class: ClassName=U_Precharge Member=Component D6 SD560BTR
+Added Member To Class: ClassName=U_Precharge Member=Component D7 Orange
+Added Member To Class: ClassName=U_Safety Loops Member=Component D8 SD560BTR
+Added Member To Class: ClassName=U_Safety Loops Member=Component D10 SD560BTR
+Added Member To Class: ClassName=U_Safety Loops Member=Component D11 Green
+Added Member To Class: ClassName=U_Safety Loops Member=Component D13 Green
+Added Member To Class: ClassName=U_Safety Loops Member=Component D14 SD560BTR
+Added Member To Class: ClassName=Top Level Member=Component HV BATTERY+ 39300020
+Added Member To Class: ClassName=Top Level Member=Component HV BATTERY- 39300020
+Added Member To Class: ClassName=Top Level Member=Component HV IMD+ 39300020
+Added Member To Class: ClassName=Top Level Member=Component HV IMD- 39300020
+Added Member To Class: ClassName=Top Level Member=Component HV MC+ 39300020
+Added Member To Class: ClassName=Top Level Member=Component HV MC- 39300020
+Added Member To Class: ClassName=Top Level Member=Component IMD INTERFACE 39300080
+Added Member To Class: ClassName=U_Safety Loops Member=Component K1 V23105A5475A201
+Added Member To Class: ClassName=U_Safety Loops Member=Component K2 V23105A5475A201
+Added Member To Class: ClassName=Top Level Member=Component PRIMARY INTERFACE 39300240
+Added Member To Class: ClassName=U_Safety Loops Member=Component Q2 2N7002K
+Added Member To Class: ClassName=U_Safety Loops Member=Component Q4 2N7002K
+Added Member To Class: ClassName=U_Power Supply Member=Component R2 1.5k
+Added Member To Class: ClassName=U_Power Supply Member=Component R3 1.5k
+Added Member To Class: ClassName=U_Precharge Member=Component R4 680R
+Added Member To Class: ClassName=U_Precharge Member=Component R6 1.5k
+Added Member To Class: ClassName=U_Precharge Member=Component R7 20k
+Added Member To Class: ClassName=U_Precharge Member=Component R8 20k
+Added Member To Class: ClassName=U_Precharge Member=Component R9 20k
+Added Member To Class: ClassName=U_Precharge Member=Component R10 680R
+Added Member To Class: ClassName=U_Precharge Member=Component R11 1k
+Added Member To Class: ClassName=U_Precharge Member=Component R12 20k
+Added Member To Class: ClassName=U_Precharge Member=Component R13 1.5k
+Added Member To Class: ClassName=U_Precharge Member=Component R16 1k
+Added Member To Class: ClassName=U_Precharge Member=Component R18 20k
+Added Member To Class: ClassName=U_Precharge Member=Component R19 20k
+Added Member To Class: ClassName=U_Precharge Member=Component R20 680R
+Added Member To Class: ClassName=U_Precharge Member=Component R21 1.5k
+Added Member To Class: ClassName=U_Precharge Member=Component R22 1.5k
+Added Member To Class: ClassName=U_Precharge Member=Component R23 20k
+Added Member To Class: ClassName=U_Precharge Member=Component R25 20k
+Added Member To Class: ClassName=U_Safety Loops Member=Component R26 1.5k
+Added Member To Class: ClassName=U_Safety Loops Member=Component R28 680R
+Added Member To Class: ClassName=U_Safety Loops Member=Component R29 20k
+Added Member To Class: ClassName=U_Safety Loops Member=Component R30 1.5k
+Added Member To Class: ClassName=U_Safety Loops Member=Component R31 1.5k
+Added Member To Class: ClassName=U_Safety Loops Member=Component R32 680R
+Added Member To Class: ClassName=U_Safety Loops Member=Component R33 680R
+Added Member To Class: ClassName=U_Safety Loops Member=Component R34 20k
+Added Member To Class: ClassName=U_Safety Loops Member=Component R35 680R
+Added Member To Class: ClassName=U_Safety Loops Member=Component R36 1.5k
+Added Member To Class: ClassName=U_Safety Loops Member=Component R37 680R
+Added Member To Class: ClassName=U_Safety Loops Member=Component R38 680R
+Added Member To Class: ClassName=U_Safety Loops Member=Component R39 680R
+Added Member To Class: ClassName=U_Safety Loops Member=Component R42 680R
+Added Member To Class: ClassName=U_Sensors Member=Component R43 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R44 2k
+Added Member To Class: ClassName=U_Sensors Member=Component R45 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R46 3k
+Added Member To Class: ClassName=U_Sensors Member=Component R47 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R48 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R49 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R50 10K (Var)
+Added Member To Class: ClassName=U_Sensors Member=Component R51 1.5k
+Added Member To Class: ClassName=U_Sensors Member=Component R54 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R55 330K
+Added Member To Class: ClassName=U_Sensors Member=Component R57 330K
+Added Member To Class: ClassName=U_Sensors Member=Component R58 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R59 330K
+Added Member To Class: ClassName=U_Sensors Member=Component R61 10K (Var)
+Added Member To Class: ClassName=U_Sensors Member=Component R62 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R63 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R64 10K
+Added Member To Class: ClassName=U_Sensors Member=Component R66 330K
+Added Member To Class: ClassName=U_Sensors Member=Component R68 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R70 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R71 10K (Var)
+Added Member To Class: ClassName=U_Sensors Member=Component R72 10k
+Added Member To Class: ClassName=U_Sensors Member=Component R74 10K
+Added Member To Class: ClassName=U_STM32 Member=Component R76 10k
+Added Member To Class: ClassName=U_STM32 Member=Component R77 10k
+Added Member To Class: ClassName=U_STM32 Member=Component R78 510R
+Added Member To Class: ClassName=U_STM32 Member=Component R80 10k
+Added Member To Class: ClassName=U_STM32 Member=Component R84 680R
+Added Member To Class: ClassName=U_STM32 Member=Component R85 680R
+Added Member To Class: ClassName=U_STM32 Member=Component R86 680R
+Added Member To Class: ClassName=U_STM32 Member=Component R87 680R
+Added Member To Class: ClassName=U_STM32 Member=Component R88 10M
+Added Member To Class: ClassName=U_STM32 Member=Component SERIAL 2.54mm
+Added Member To Class: ClassName=U_STM32 Member=Component STLINK 2.54mm
+Added Member To Class: ClassName=U_CAN Member=Component U1 ADM3053
+Added Member To Class: ClassName=U_CAN Member=Component U2 B82787C0104H002
+Added Member To Class: ClassName=U_CAN Member=Component U3 NUP2105L
+Added Member To Class: ClassName=U_Power Supply Member=Component U6 744272121
+Added Member To Class: ClassName=U_Precharge Member=Component U9 LTV-817S-TA1
+Added Member To Class: ClassName=U_Precharge Member=Component U10 DAT70510
+Added Member To Class: ClassName=U_Precharge Member=Component U11 ADUM4120
+Added Member To Class: ClassName=U_Precharge Member=Component U13 ADUM4120
+Added Member To Class: ClassName=U_Safety Loops Member=Component U14 LTV-817S-TA1
+Added Member To Class: ClassName=U_Safety Loops Member=Component U16 LTV-817S-TA1
+Added Member To Class: ClassName=U_Sensors Member=Component U17 ADUM6028
+Added Member To Class: ClassName=U_Sensors Member=Component U19 LM324D
+Added Member To Class: ClassName=U_Sensors Member=Component U20 LMV339IDR
+Added Member To Class: ClassName=U_Sensors Member=Component U22 ADUM6028
+Added Member To Class: ClassName=U_Sensors Member=Component U23 ACPL-C870
+Added Member To Class: ClassName=U_STM32 Member=Component U26 STM32F103C8T6
+Added Member To Class: ClassName=U_STM32 Member=Component U27 RT9193-33GB
