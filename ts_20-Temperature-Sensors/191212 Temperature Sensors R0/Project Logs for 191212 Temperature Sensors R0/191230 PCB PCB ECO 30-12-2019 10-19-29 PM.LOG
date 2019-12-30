@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=0V Pin=P8-1
+Removed Pin From Net: NetName=0V Pin=P8-3
+Removed Pin From Net: NetName=0V Pin=P8-5
+Removed Pin From Net: NetName=0V Pin=P8-7
+Removed Pin From Net: NetName=0V Pin=P8-9
+Removed Pin From Net: NetName=0V Pin=P8-11
+Removed Pin From Net: NetName=0V Pin=P8-13
+Removed Pin From Net: NetName=0V Pin=P8-15
+Removed Pin From Net: NetName=0V Pin=P9-1
+Removed Pin From Net: NetName=0V Pin=P9-3
+Removed Pin From Net: NetName=0V Pin=P9-5
+Removed Pin From Net: NetName=0V Pin=P9-7
+Removed Pin From Net: NetName=0V Pin=P9-9
+Removed Pin From Net: NetName=0V Pin=P9-11
+Removed Pin From Net: NetName=0V Pin=P9-13
+Removed Pin From Net: NetName=0V Pin=P9-15
+Removed Pin From Net: NetName=NetMUX TP1_U_Multiplexer Bank5_1 Pin=R2_U_4 Channel ADC2-1
+Removed Pin From Net: NetName=NetMUX TP1_U_Multiplexer Bank6_1 Pin=R3_U_4 Channel ADC2-1
+Removed Pin From Net: NetName=NetMUX TP1_U_Multiplexer Bank1_1 Pin=R5_U_4 Channel ADC1-1
+Removed Pin From Net: NetName=SEL0 Pin=U5_U_Multiplexer Bank7-1
+Removed Pin From Net: NetName=SEL2 Pin=U5_U_Multiplexer Bank7-15
+Removed Pin From Net: NetName=SEL1 Pin=U5_U_Multiplexer Bank7-16
+Removed Pin From Net: NetName=SEL0 Pin=U5_U_Multiplexer Bank8-1
+Removed Pin From Net: NetName=SEL2 Pin=U5_U_Multiplexer Bank8-15
+Removed Pin From Net: NetName=SEL1 Pin=U5_U_Multiplexer Bank8-16
+Removed Member From Class: ClassName=Top Level Member=P8
+Removed Member From Class: ClassName=Top Level Member=P9
+Added Pin To Net: NetName=NetMUX TP1_U_Multiplexer Bank1_1 Pin=R2_U_4 Channel ADC2-1
+Added Pin To Net: NetName=NetMUX TP1_U_Multiplexer Bank5_1 Pin=R3_U_4 Channel ADC2-1
+Added Pin To Net: NetName=NetMUX TP1_U_Multiplexer Bank6_1 Pin=R4_U_4 Channel ADC2-1
+Added Pin To Net: NetName=NetR5_U_4 Channel ADC1_1 Pin=R5_U_4 Channel ADC1-1
+Added Net: Name=NetR5_U_4 Channel ADC1_1
+Added Pin To Net: NetName=NetR5_U_4 Channel ADC2_1 Pin=R5_U_4 Channel ADC2-1
+Added Net: Name=NetR5_U_4 Channel ADC2_1

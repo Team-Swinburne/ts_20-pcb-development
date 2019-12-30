@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetC32_1 Pin=C32-1
+Change Component Footprint: Designator=C31 Old Footprint=2924 New Footprint=1206
+Change Component Footprint: Designator=C32 Old Footprint=2924 New Footprint=1206
+Change Component Comment : Designator=C31 Old Comment=68uF New Comment=22uF
+Change component parameters: Designator = "C32"; Footprint = "1206"; UniqueID = "\XRHXNJNU\CUBAXVLG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "311-1997-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC1206MKX5R7BB226"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31"; Footprint = "1206"; UniqueID = "\XRHXNJNU\MSQCTBMB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "311-1997-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC1206MKX5R7BB226"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "311-1997-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC1206MKX5R7BB226"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C40(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "311-1997-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC1206MKX5R7BB226"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GLV- Pin=C32-1
+Added Pin To Net: NetName=NetC31_2 Pin=C32-2
+Added Pin To Net: NetName=GLV- Pin=C39-1
+Added Pin To Net: NetName=NetC31_2 Pin=C39-2
+Added Pin To Net: NetName=NetC32_1 Pin=C40-1
+Change Net Name : Old Net Name=NetC32_1 New Net Name=NetC40_1
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=D8-A
+Added Pin To Net: NetName=NetC40_2 Pin=U12-2
+Added Net: Name=NetC40_2
+Added Member To Class: ClassName=U_Power Supply Member=Component C39 22uF
+Added Member To Class: ClassName=U_Power Supply Member=Component C40 22uF

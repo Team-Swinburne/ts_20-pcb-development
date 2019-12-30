@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=0V Pin=P7-1
+Removed Pin From Net: NetName=0V Pin=P7-3
+Removed Pin From Net: NetName=0V Pin=P7-5
+Removed Pin From Net: NetName=0V Pin=P7-7
+Removed Pin From Net: NetName=0V Pin=P7-9
+Removed Pin From Net: NetName=0V Pin=P7-11
+Removed Pin From Net: NetName=0V Pin=P7-13
+Removed Pin From Net: NetName=0V Pin=P7-15
+Removed Pin From Net: NetName=SEL0 Pin=U5_U_Multiplexer Bank6-1
+Removed Pin From Net: NetName=SEL2 Pin=U5_U_Multiplexer Bank6-15
+Removed Pin From Net: NetName=SEL1 Pin=U5_U_Multiplexer Bank6-16
+Removed Member From Class: ClassName=Top Level Member=P7
+Added Pin To Net: NetName=NetR4_U_4 Channel ADC2_1 Pin=R4_U_4 Channel ADC2-1
+Added Net: Name=NetR4_U_4 Channel ADC2_1
