@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\patri\Google Drive\ts_19\Car\5. P&E\Future Schematics\~ts_20 Library\ts_20-standard-connectors\ts_20-standard-connectors-database.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\GitHub\ts_20-pcb-development\~ts_20 Library\ts_20-standard-connectors\ts_20-standard-connectors-database.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=..\ts_20-standard-connectors
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Deutsch DT$
+LastFocusedTable=Generic$
 [Table1]
 SchemaName=
 TableName=Deutsch DT$
@@ -41,12 +41,18 @@ TableName=Generic$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=130|Library Ref0=77|Library Path0=83|Footprint Ref0=130|Footprint Path0=98|Positions0=70|Pitch0=48|Row Spacing0=90|Angle0=53|Flange0=58|Contact0=63
 [Table4]
 SchemaName=
 TableName=Mill-Max$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=132|Library Ref0=132|Library Path0=88|Footprint Ref0=132|Footprint Path0=98|Positions0=70|Pitch0=48|Row Spacing0=90|Angle0=53|Flange0=58|Contact0=63|Digikey Part Number0=128|Digikey Link0=621
 [Table5]
 SchemaName=
 TableName=Molex Micro-Fit$
@@ -59,6 +65,9 @@ TableName=Molex Minifit$
 Enabled=True
 UserWhere=0
 UserWhereText=[Part Number] = {Part Number}
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Positions0=70|Pitch0=48|Row Spacing0=90|Angle0=53|Flange0=58|Contact0=63|Digikey Part Number0=128|Digikey Link0=451|F140=41|F150=41|F160=41
 [Table7]
 SchemaName=
 TableName=Molex SL$
@@ -71,6 +80,9 @@ TableName=USB$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Description0=456|Library Ref0=81|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Angle0=53|Digikey Part Number0=142|Digikey Link0=504
 [FieldMap1]
 Options=FieldName=Deutsch DT$.Library Ref|TableNameOnly=Deutsch DT$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
