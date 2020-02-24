@@ -16,7 +16,7 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=Sources
+DefaultConfiguration=Default - All Constraints
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
@@ -38,13 +38,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Schematic.SchDoc
+DocumentPath=S2B-XH-A_LF__SN_.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -52,10 +52,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CHIESZJG
+DocumentUniqueId=MBIWKOYI
 
 [Document2]
-DocumentPath=PCB.PcbDoc
+DocumentPath=S2B-XH-A_LF__SN_.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,51 +69,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YGUAXYBE
+DocumentUniqueId=OHVWMBEY
 
-[Document3]
-DocumentPath=..\..\~ts_20 Library\ts_20-standard-connectors\JST\JST.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+[GeneratedDocument1]
+DocumentPath=S2B-XH-A_LF__SN_.LOG
 DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MHZISFVC
-
-[Document4]
-DocumentPath=..\..\~ts_20 Library\ts_20-standard-connectors\JST\JST.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SUFANLIM
-
-[Configuration1]
-Name=Sources
-ParameterCount=0
-ConstraintFileCount=0
-ReleaseItemId=
-Variant=[No Variations]
-OutputJobsCount=0
-ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
-ConfigurationType=Source
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -230,7 +190,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -1051,7 +1011,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=1
+SortOrder=3
 SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1
@@ -1074,12 +1034,6 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=ts_20-standard-connectors.DbLib/Mill-Max$
-ComponentDesignItemID0=0850-0-15-20-83-14-11-0
-ComponentSymbolReference0=0850-0-15-20-83-14-11-0
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1093,37 +1047,6 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Angle
-ParameterUpdate0=1
-ParameterName1=Comment
-ParameterUpdate1=1
-ParameterName2=Component Kind
-ParameterUpdate2=1
-ParameterName3=Contact
-ParameterUpdate3=1
-ParameterName4=Description
-ParameterUpdate4=1
-ParameterName5=Digikey Link
-ParameterUpdate5=1
-ParameterName6=Digikey Part Number
-ParameterUpdate6=1
-ParameterName7=Flange
-ParameterUpdate7=1
-ParameterName8=Library Reference
-ParameterUpdate8=1
-ParameterName9=Part Number
-ParameterUpdate9=1
-ParameterName10=Pitch
-ParameterUpdate10=1
-ParameterName11=Positions
-ParameterUpdate11=1
-ParameterName12=Row Spacing
-ParameterUpdate12=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=0850-0-15-20-83-14-11-0
-ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1137,7 +1060,4 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-
-[SmartPDF]
-PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
