@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WGLDRYLI
+DocumentUniqueId=RTWCILLQ
 
 [Configuration1]
 Name=Sources
@@ -1161,7 +1161,7 @@ UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=ts_20-standard-connectors.DbLib/Deutsch DT$
-ComponentDesignItemID0=
+ComponentDesignItemID0=DT13-12P
 ComponentSymbolReference0=DT13-12P
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
