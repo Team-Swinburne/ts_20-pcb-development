@@ -123,23 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GYWVPHUQ
 
 [Document6]
-DocumentPath=DIgital Isolation.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YFRRYPNC
-
-[Document7]
 DocumentPath=Discharge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQAGUNKF
 
-[Document8]
+[Document7]
 DocumentPath=HV Sense.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MAYZGOIQ
 
-[Document9]
+[Document8]
 DocumentPath=PDOC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJDIQCSO
 
-[Document10]
+[Document9]
 DocumentPath=5kW Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGFFOEUJ
 
-[Document11]
+[Document10]
 DocumentPath=..\200108 Discharge Module R0\TSAL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHBIVSFH
 
-[Document12]
+[Document11]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,6 +223,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKKDQDAT
+
+[Document12]
+DocumentPath=DIgital Isolation.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YFRRYPNC
 
 [Configuration1]
 Name=Sources
