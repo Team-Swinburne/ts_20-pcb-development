@@ -75,6 +75,13 @@ DocumentUniqueId=GLWYFTJE
 DocumentPath=AAI 27-02-2020 4-57-14 PM.WAS
 DItemRevisionGUID=
 
+<<<<<<< HEAD
+=======
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ts-20-Accumulator-Active-Indicator\Design Rule Check - AAI.html
+DItemRevisionGUID=
+
+>>>>>>> 72a719bfa40697fb5cb9d89d84cd1cd4c863f039
 [Configuration1]
 Name=Sources
 ParameterCount=0
