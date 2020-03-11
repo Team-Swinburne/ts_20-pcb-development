@@ -1,0 +1,207 @@
+Board Information Report
+Filename     : C:\Users\ccben\Desktop\TS_20\ts_20-pcb-development\ts_20-Brake-Module\200304 Brake Module R2\Brake Module PCB.PcbDoc
+Date         : 9/03/2020
+Time         : 1:09:13 PM
+Time Elapsed : 00:00:02
+
+General
+    Board Size, 11200milsx5900mils
+    Components on board, 166
+count : 2
+
+Routing Information
+    Routing completion, 53.20%
+    Connections, 391
+    Connections routed, 208
+    Connections remaining, 183
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 442, 0, 562, 2, 0, 1, 0
+    Int1 (GND), 0, 0, 0, 4, 0, 0, 1, 0
+    Int2 (PWR), 0, 0, 0, 4, 0, 0, 1, 0
+    Bottom Layer, 0, 0, 0, 48, 0, 0, 1, 0
+    Mechanical 1, 0, 0, 0, 5, 0, 0, 0, 151
+    Mechanical 13, 8, 0, 0, 521, 0, 0, 0, 4
+    Mechanical 15, 2, 0, 0, 528, 0, 0, 0, 0
+    Multi-Layer, 0, 106, 135, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 48, 0, 0, 818, 332, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 17
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 135
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 2.031, 1310.551, 3%
+    Int1 (GND), 64.524, 41627.996, 98%
+    Int2 (PWR), 64.526, 41629.49, 98%
+    Bottom Layer, 0.878, 566.32, 1%
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+    129.921mils, 6, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mils, 330, 0
+    13mils, 0, 116
+    15.75mils, 16, 0
+    25.197mils, 9, 0
+    28mils, 0, 19
+    35.433mils, 48, 0
+    47.244mils, 5, 0
+    74.803mils, 18, 0
+count : 8
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+    23.62mil / 55.118mil, 2
+    23.62mil / 82.677mil, 2
+count : 2
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -11.811mils, 6
+    9.84mils, 16
+    13mils, 116
+    22mils, 19
+    23.622mils, 37
+    43.307mils, 18
+    43.309mils, 2
+    44.567mils, 16
+    54.803mils, 9
+    70.868mils, 2
+count : 10
+
+Mid Layer Annular Ring Size, Count
+    -11.811mils, 6
+    9.84mils, 16
+    13mils, 116
+    22mils, 19
+    23.622mils, 37
+    43.307mils, 18
+    43.309mils, 2
+    44.567mils, 16
+    54.803mils, 9
+    70.868mils, 2
+count : 10
+
+Bottom Layer Annular Ring Size, Count
+    -11.811mils, 6
+    9.84mils, 16
+    13mils, 116
+    22mils, 19
+    23.622mils, 37
+    43.307mils, 18
+    43.309mils, 2
+    44.567mils, 16
+    54.803mils, 9
+    70.868mils, 2
+count : 10
+
+Pad Solder Mask, Count
+    4mils, 548
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 548
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 548
+count : 1
+
+Pad Relief Conductor Width, Count
+    31.496mils, 548
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 548
+count : 1
+
+Pad Relief Entries, Count
+    4, 548
+count : 1
+
+Via Solder Mask, Count
+    4mils, 135
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 135
+count : 1
+
+Track Width, Count
+    1mils, 1
+    1.969mils, 4
+    1.97mils, 4
+    3.937mils, 22
+    3.94mils, 4
+    7.87mils, 4
+    7.874mils, 41
+    8mils, 60
+    10mils, 2261
+    20mils, 14
+    30mils, 15
+    35mils, 17
+    40mils, 10
+    60mils, 1
+    62.992mils, 28
+    100mils, 4
+count : 16
+
+Arc Line Width, Count
+    10mils, 58
+count : 1
+
+Arc Radius, Count
+    7.874mils, 3
+    9.074mils, 1
+    9.843mils, 1
+    10mils, 6
+    17.607mils, 4
+    19.685mils, 3
+    27.819mils, 1
+    50mils, 25
+    92.499mils, 6
+    100mils, 8
+count : 10
+
+Arc Degrees, Count
+    90, 8
+    180, 10
+    360, 40
+count : 3
+
+Text Height, Count
+    60mils, 334
+count : 1
+
+Text Width, Count
+    6mils, 2
+    10mils, 332
+count : 2
+
+Net Track Width, Count
+    5mils, 107
+count : 1
+
+Net Via Size, Count
+    50mils, 107
+count : 1
