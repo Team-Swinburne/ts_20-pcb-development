@@ -207,6 +207,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBFMEDTY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 200310 Brake Module R3\Design Rule Check - Brake Module PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
