@@ -123,13 +123,13 @@ GenerateClassCluster=0
 DocumentUniqueId=QMRUGSOR
 
 [Document6]
-DocumentPath=Digital Isolation.SchDoc
+DocumentPath=Isolation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=5
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -206,6 +206,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBFMEDTY
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 200310 Brake Module R3\Design Rule Check - Brake Module PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
