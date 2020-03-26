@@ -1,0 +1,27 @@
+Change component parameters: Designator = "TEMP1"; UniqueID = "\GQXFYCYH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "TEMP2"; UniqueID = "\AGWCMVHN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "TEMP3"; UniqueID = "\TQJPCZBL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "TEMP4"; UniqueID = "\AGLFTTII"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "TEMP5"; UniqueID = "\CLFFLYOR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "TEMP6"; UniqueID = "\BKFLRPIK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "TEMP7"; UniqueID = "\HKXBIYJW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "TEMP8"; UniqueID = "\GDGZUUIG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "TO ORION BMS"; Footprint = "1376113-6"; UniqueID = "\ITQJVQPA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Angle"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact"; Value = "gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com.au/product-detail/en/te-connectivity-amp-connectors/1376113-2/A122206-ND/2273530"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "A122206-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "1376113-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "3"; VariantName = "[No Variations]"
+Added Room: Name=Schematic
