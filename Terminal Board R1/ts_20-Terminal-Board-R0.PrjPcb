@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGUAXYBE
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ts_20-Terminal-Board-R0\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
