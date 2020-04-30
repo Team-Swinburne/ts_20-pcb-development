@@ -224,6 +224,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 200221 UCM R1\Design Rule Check - UCM PCB R1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1207,7 +1211,7 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=ts_20-standard-connectors.DbLib/Deutsch DT$
-ComponentDesignItemID0=
+ComponentDesignItemID0=DT13-12P
 ComponentSymbolReference0=DT13-12P
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
