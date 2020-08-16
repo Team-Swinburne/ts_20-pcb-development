@@ -1,4 +1,11 @@
 [DesignatorManager]
+LogicalDesignator0=D7
+LogicalPartID0=1
+DocumentName0=Power.SchDoc
+ChannelName0=U_Power
+UniqueID0=\FOJJVZWW\MBJQQRBI
+PhysicalDesignator0=LV Ok
+PhysicalDesignatorLocked0=0
 
 [SheetNumberManager]
 SheetNumberOrder=Display Order
