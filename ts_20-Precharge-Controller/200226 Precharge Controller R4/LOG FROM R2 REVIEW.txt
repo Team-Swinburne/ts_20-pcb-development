@@ -1,0 +1,21 @@
+REVISIONS FROM R2
+
+ANTONIO
+	1.(*) Add series resistor with gate to avoid damaging drivers from input capacitance
+		*(Microcontrollers, gate drivers, etc.)
+	2.(*) Add additional resistor below potentiometer to bias range effectively.
+	3.(*) Adjust output on TS391 to remove pullup and reconfigure to open drain output.
+	4.(*) Add feedback resistor to comparator to avoid output chatter in linear region.
+	5.(/) Use layers 2 and 3 for routing in HV section. 
+	6.( ) Add additional fill around headers to reduce pullout effects.
+	7.(*) Decrease solder mask to 2 mil.
+		*Having overlap of mask not detremental; additional areas to the toe and removeing
+		from the heel allows for better drag soldering.
+		*Increasing the area to the side of each leg allows for pools to form around the
+		legs of the component rather than between the legs of the component. 
+	8.( ) Reduce amount of heel in component footprints.
+		( ) ADM3053
+		(*) STM32F103
+		( ) ADUM1400
+		(*) ADS1115
+		( ) ADUM3260
