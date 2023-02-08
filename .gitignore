@@ -13,6 +13,7 @@ __Previews
 *.$$$
 *.ini
 *.zip
+*.desktop.ini
 
 #useless dirs
 Project\ Outputs
