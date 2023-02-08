@@ -12,6 +12,7 @@ __Previews
 *.htm
 *.$$$
 *.ini
+*.zip
 
 #useless dirs
 Project\ Outputs
